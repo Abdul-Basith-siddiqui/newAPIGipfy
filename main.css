@@ -3,7 +3,7 @@ body {
 	max-width: 1024px;
 	margin: 0 auto;
 	background-color: rgba(0, 0, 0, 0);// black(.5);
-	background-image: url('../background.jpg');
+	background-image: url('background.jpg');
 }
 
 .container-padding50 {
